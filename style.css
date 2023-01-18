@@ -64,3 +64,11 @@ a:hover {
     transition: 0.4sec;
 }
 
+.fitness_image {
+    text-align: center;
+    height: 200px;
+    margin-top: 10px;
+    object-fit: cover;
+}
+
+

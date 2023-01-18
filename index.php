@@ -22,7 +22,7 @@
     <!-- Start Body of Page -->
 
     <div class="fitness_image">
-        <img src=""/>
+        <img src="/images/fatty_guy.jpeg"/>
     </div>
 
     <!-- End Body of Page -->
