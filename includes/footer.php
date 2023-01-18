@@ -1,6 +1,6 @@
 <?php 
 echo
-    '<footer class="text-white text-center">
+    '<footer class="text-black text-center">
     <div class="text-center p-3">
       <h5 class="text-uppercase">Health Survey:</h5>
       <br>

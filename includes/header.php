@@ -4,16 +4,15 @@ echo
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-dark">
       <!-- Container wrapper -->
-      <div class="container-fluid">
+      <div class="container">
         <!-- Navbar logo -->
-        <div class="logo">
-        <img src="url" alt="hotel fit logo">f
-        </div>
-        <!-- Navbar brand -->
-        <div class="container my-4 text-center">
-          <a class="navbar-brand text-center" href="index.php"
-            >Hotel FIT</a>
-        </div>
+        <div class="logo"><img src="/images/logo-removebg-preview.png" alt="logo"/></div>
+      </div>
+      <div class="container">
+        <ul class="nav nav-pills">
+            <li class="nav-item"><a class="home_button" href="#" aria-current="page">Home</a></li>
+            <li class="nav-item"><a class="aboutus_button" href="#" aria-current="page">About Us</a></li>
+        </ul>
       </div>
       <!-- Container wrapper -->
     </nav>
