@@ -21,7 +21,9 @@
 
     <!-- Start Body of Page -->
 
-    <p>Content Area</p>
+    <div class="fitness_image">
+        <img src=""/>
+    </div>
 
     <!-- End Body of Page -->
 
