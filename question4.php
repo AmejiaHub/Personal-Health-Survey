@@ -12,12 +12,14 @@
     <!-- Internal CSS -->
     <link rel="stylesheet" href="style.css">
 </head>
+
+<body>
     <!-- Include PHP Header -->
     <div class="header">
         <?php include 'includes/header.php';?>
     </div>
 
-    <!-- Start Body of Page -->
+    <!-- Start Content of Page -->
 
     Content of page
 

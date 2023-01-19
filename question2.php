@@ -17,18 +17,17 @@
         <?php include 'includes/header.php';?>
     </div>
 
-    <!-- Start Body of Page -->
+    <!-- Start Content of Page -->
 
     Content of page
 
-    <!-- End Body of Page -->
+    <!-- End Content of Page -->
 
     <!-- Include PHP Footer -->
     <div class="footer">
         <?php include 'includes/footer.php';?>
     </div>
 
-<body>
     <!-- Bootstrap5 Javascript -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>

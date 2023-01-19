@@ -17,7 +17,7 @@
         <?php include 'includes/header.php';?>
     </div>
 
-    <!-- Start Body of Page -->
+    <!-- Start Content of Page -->
 
     <div class="container-fluid">
         <div id="aboutUs">
@@ -30,7 +30,7 @@
         </div>
     </div>
 
-    <!-- End Body of Page -->
+    <!-- End Content of Page -->
 
     <!-- Include PHP Footer -->
     <div class="footer">
