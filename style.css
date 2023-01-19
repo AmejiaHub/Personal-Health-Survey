@@ -10,9 +10,10 @@
 
 .footer {
     background-color: rgb(218, 210, 216);
-    position: fixed;
+    
     bottom: 0;
     width: 100%;
+    margin-top: 10px;
 }
 
 #copyright {
@@ -64,11 +65,13 @@ a:hover {
     transition: 0.4sec;
 }
 
-.fitness_image {
+/*.fitness_image {
     text-align: center;
-    height: 200px;
+    height: auto;
     margin-top: 10px;
     object-fit: cover;
-}
+    
+}*/
+
 
 
