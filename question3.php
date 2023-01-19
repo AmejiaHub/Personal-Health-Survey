@@ -17,11 +17,11 @@
         <?php include 'includes/header.php';?>
     </div>
 
-    <!-- Start Body of Page -->
+    <!-- Start Content of Page -->
 
     Content of page
 
-    <!-- End Body of Page -->
+    <!-- End Content of Page -->
 
     <!-- Include PHP Footer -->
     <div class="footer">
