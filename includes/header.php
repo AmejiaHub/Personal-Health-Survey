@@ -10,8 +10,8 @@ echo
     </div>
     <div class="container">
       <ul class="nav nav-pills d-flex justify-content-center justify-content-lg-end">
-          <li class="nav-item"><a class="home_button" href="#" aria-current="page">Home</a></li>
-          <li class="nav-item"><a class="aboutus_button" href="#" aria-current="page">About Us</a></li>
+          <li class="nav-item"><a class="home_button" href="index.php" aria-current="page">Home</a></li>
+          <li class="nav-item"><a class="aboutus_button" href="about_us.php" aria-current="page">About Us</a></li>
       </ul>
     </div>
     <!-- Container wrapper -->
