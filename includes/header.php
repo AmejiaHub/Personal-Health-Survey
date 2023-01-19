@@ -1,14 +1,21 @@
 <?php 
 echo
-    '<header class="d-flex flex-wrap justifiy-content-center py-3 mb-4 border-bottom">
-        <a class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none" href="/"></a>
-            <ul class="nav nav-pills">
-                <li class="nav-item">
-                    <a class="nav-link-active" href="#" aria-current="page">Home</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Previous Page</a>
-                </li>
-            </ul>
-    </header>';
+  '<header>
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg navbar-dark">
+    <!-- Container wrapper -->
+    <div class="container">
+      <!-- Navbar logo -->
+      <div class="logo"><img src="/images/logo-removebg-preview.png" alt="logo"/></div>
+    </div>
+    <div class="container">
+      <ul class="nav nav-pills d-flex justify-content-center justify-content-lg-end">
+          <li class="nav-item"><a class="home_button" href="index.php" aria-current="page">Home</a></li>
+          <li class="nav-item"><a class="aboutus_button" href="about_us.php" aria-current="page">About Us</a></li>
+      </ul>
+    </div>
+    <!-- Container wrapper -->
+  </nav>
+  <!-- Navbar -->
+</header>'
 ?>

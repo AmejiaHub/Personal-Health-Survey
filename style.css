@@ -1,0 +1,107 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: rgb(218, 210, 216);
+}
+
+.footer {
+    background-color: rgb(218, 210, 216);
+    
+    bottom: 0;
+    width: 100%;
+    margin-top: 10px;
+}
+
+#copyright {
+    padding: 1px;
+    padding-top: 15px;
+    color: black;
+}
+
+.nav {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0;
+    padding-right: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+li {
+    padding-top: 15px;
+    padding-bottom: 10px;
+    margin-left: 80px;
+    
+}
+
+.home_button {
+    color: white;
+    text-decoration: none;
+    background-color: rgb(230, 70, 62);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: .25rem;
+}
+
+.aboutus_button {
+    color: white;
+    text-decoration: none;
+    background-color: rgb(230, 70, 62);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: .25rem;
+}
+
+a:hover {
+    color: black;
+    transition: 0.4sec;
+}
+
+.fitness_image {
+    text-align: center;
+    height: auto;
+    margin-top: 10px;
+    object-fit: cover;
+    
+}
+
+#start_survey {
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+}
+
+#aboutUs {
+    text-align: center;
+    margin-top: 10px;
+}
+
+#question_box {
+    text-align: center;
+}
+
+#customRange3 {
+    text-align: center;
+    width: 300px;
+}
+
+.range-text {
+    width: 350px;
+    margin: 0 auto;
+}
+
+.rating {
+    display: inline-block;
+    width: 19%;
+}
+
+
+

@@ -19,7 +19,16 @@
 
     <!-- Start Content of Page -->
 
-    Content of page
+    <div class="container-fluid">
+        <div id="aboutUs">
+            <h2>Who we are:</h2><br>
+            <p>We are a hotel situated in the beautiful mountains of <b>Engading, Switzerland.</b></p><br>
+            <p>Our main focus is the <b>wellness</b> and <b>health</b> of our customers</p><br>
+            <p>You will experience a wonderful time visiting us. <b>It's all about you, your wellness and your health!</b></p><br>
+            <p>We look forwards to welcoming you as our guest.</p><br>
+            <p><b>Come visit us!</b></p>
+        </div>
+    </div>
 
     <!-- End Content of Page -->
 
