@@ -84,5 +84,24 @@ a:hover {
     margin-top: 10px;
 }
 
+#question_box {
+    text-align: center;
+}
+
+#customRange3 {
+    text-align: center;
+    width: 300px;
+}
+
+.range-text {
+    width: 350px;
+    margin: 0 auto;
+}
+
+.rating {
+    display: inline-block;
+    width: 19%;
+}
+
 
 
