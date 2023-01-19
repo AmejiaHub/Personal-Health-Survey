@@ -27,7 +27,7 @@
 
     <div class="container" id="start_survey">
       <ul class="nav nav-pills justify-content-center">
-          <li class="nav-item"><a class="home_button" href="#" aria-current="page">Start Survey</a></li>
+          <li class="nav-item"><a class="home_button" href="question1.php" target="_self">Start Survey</a></li>
       </ul>
     </div>
 

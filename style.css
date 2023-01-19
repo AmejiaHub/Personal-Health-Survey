@@ -65,13 +65,19 @@ a:hover {
     transition: 0.4sec;
 }
 
-/*.fitness_image {
+.fitness_image {
     text-align: center;
     height: auto;
     margin-top: 10px;
     object-fit: cover;
     
-}*/
+}
+
+#start_survey {
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+}
 
 
 
