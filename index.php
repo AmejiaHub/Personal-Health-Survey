@@ -22,7 +22,13 @@
     <!-- Start Body of Page -->
 
     <div class="fitness_image">
-        <img src="/images/fatty_guy.jpeg"/>
+        <img src="/images/landing_image.jpeg"/>
+    </div>
+
+    <div class="container" id="start_survey">
+      <ul class="nav nav-pills justify-content-center">
+          <li class="nav-item"><a class="home_button" href="#" aria-current="page">Start Survey</a></li>
+      </ul>
     </div>
 
     <!-- End Body of Page -->
