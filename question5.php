@@ -12,18 +12,18 @@
 </head>
     <!-- Include PHP Header -->
     <div class="header">
-        <?php include 'header.php';?>
+        <?php include 'includes/header.php';?>
     </div>
 
     <!-- Start Body of Page -->
 
-
+    Content of page
 
     <!-- End Body of Page -->
 
     <!-- Include PHP Footer -->
     <div class="footer">
-        <?php include 'footer.php';?>
+        <?php include 'includes/footer.php';?>
     </div>
 
 <body>
